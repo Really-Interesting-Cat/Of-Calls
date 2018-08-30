@@ -1,5 +1,5 @@
-#define HEARTACHE 3
-#define IN_DANGER 4
+#define HEARTACHE 2
+#define IN_DANGER 3
 
 #include <Wire.h>
 
@@ -13,6 +13,8 @@ int help = 0;
 extern int MPU;
 
 extern int delay_time;
+
+extern int safe_led_on;
 
 void setup() 
 {
@@ -30,21 +32,28 @@ void setup()
   
   Serial1.begin(9600);
   Serial2.begin(9600);
+
+  led_strip_init();
+
+  safe_led();
 }
 
 void loop() 
-{ 
+{
   get_sensor_data();
 
   if(data.heart.user == (uint8_t)0x01)
     help = what_help();
   
-  if(help == HEARTACHE || help == IN_DANGER)
+  if(help == 0) 
+      safe_led();
+    
+  else if(help == HEARTACHE || help == IN_DANGER)
   {
     delay_time = 0;
     in_danger(help);
     delay_time = 1;
-
+  
     help = 0;
   }
 }
