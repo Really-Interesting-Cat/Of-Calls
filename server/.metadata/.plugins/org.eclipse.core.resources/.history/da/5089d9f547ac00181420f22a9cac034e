@@ -1,0 +1,13 @@
+package really_interesting_HSS.really_interesting_HSS;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

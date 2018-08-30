@@ -1,0 +1,4 @@
+2018-08-30 17:40:03,806 ERROR [main] - System.err - 8월 30, 2018 5:40:03 오후 java.util.prefs.WindowsPreferences <init>
+경고: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2018-08-30 20:23:37,938 ERROR [main] - System.err - 8월 30, 2018 8:23:37 오후 java.util.prefs.WindowsPreferences <init>
+경고: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
