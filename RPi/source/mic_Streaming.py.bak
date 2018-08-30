@@ -1,0 +1,42 @@
+import socket
+import requests
+import pyaudio
+import time
+
+def init():
+    global url, sock, CHUNK, FORMAT, CHANNELS, RATE, p, stream
+    url = "http://192.168.137.1:8080"
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    sock.bind(("192.168.137.83", 0))
+
+    CHUNK = 512
+    FORMAT = pyaudio.paInt16
+    CHANNELS = 1
+    RATE = 16000
+
+    p = pyaudio.PyAudio()
+    stream = p.open(format = FORMAT, channels = CHANNELS, rate = RATE, input = True, output = True, frames_per_buffer = CHUNK)
+
+def httpRequest(msg):
+    response = requests.get(url=url, params=msg)
+    print("http send complete: ", response.status_code)
+    return response.status_code
+
+def udpSend():
+    while True:
+        outputData = stream.read(CHUNK,exception_on_overflow = False)
+        sock.sendto(outputData, ("192.168.137.1", 3000))
+        inputData = sock.recv(CHUNK * 2)
+        stream.write(inputData, CHUNK)
+
+
+def send():
+    if(httpRequest("abc") == 200):
+        udpSend()
+
+def main():
+    send()
+
+if __name__ == "__main__":
+    init()
+    main()
