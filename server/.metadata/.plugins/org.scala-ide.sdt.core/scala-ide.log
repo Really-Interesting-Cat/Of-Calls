@@ -74,3 +74,15 @@
 경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
 2018-08-31 01:38:09,314 ERROR [Worker-158] - System.err - 8월 31, 2018 1:38:09 오전 com.google.cloud.tools.eclipse.ui.status.PollingStatusServiceImpl refreshStatus
 경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
+2018-08-31 01:53:53,680 ERROR [Worker-163] - System.err - 8월 31, 2018 1:53:53 오전 com.google.cloud.tools.eclipse.ui.status.PollingStatusServiceImpl refreshStatus
+경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
+2018-08-31 01:54:23,742 ERROR [Worker-165] - System.err - 8월 31, 2018 1:54:23 오전 com.google.cloud.tools.eclipse.ui.status.PollingStatusServiceImpl refreshStatus
+경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
+2018-08-31 01:54:53,749 ERROR [Worker-165] - System.err - 8월 31, 2018 1:54:53 오전 com.google.cloud.tools.eclipse.ui.status.PollingStatusServiceImpl refreshStatus
+경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
+2018-08-31 01:58:38,543 ERROR [Worker-169] - System.err - 8월 31, 2018 1:58:38 오전 com.google.cloud.tools.eclipse.ui.status.PollingStatusServiceImpl refreshStatus
+경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
+2018-08-31 01:59:08,556 ERROR [Worker-170] - System.err - 8월 31, 2018 1:59:08 오전 com.google.cloud.tools.eclipse.ui.status.PollingStatusServiceImpl refreshStatus
+경고: Cannot connect to GCP: java.net.UnknownHostException: status.cloud.google.com
+2018-08-31 03:01:44,312 ERROR [main] - System.err - 8월 31, 2018 3:01:44 오전 java.util.prefs.WindowsPreferences <init>
+경고: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.

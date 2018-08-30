@@ -162,3 +162,352 @@
 2018-08-31 01:48:47,168 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
 2018-08-31 01:48:47,168 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-31 01:48:47,169 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:02:34,181 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:02:34,181 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:02:34,182 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:02:34,182 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:11:34,164 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:11:34,164 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:11:34,166 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:11:34,167 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:11:45,236 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:11:45,236 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:11:45,238 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:11:45,238 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:12:01,971 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:12:01,972 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:12:01,972 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:12:01,973 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:12:07,650 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:12:07,650 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:12:07,651 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:12:07,651 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:12:13,399 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:12:13,399 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:12:13,399 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:12:13,399 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:16:01,202 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:16:01,202 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:16:01,203 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:16:01,204 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:16:10,263 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:16:10,264 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:16:10,264 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:16:10,264 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:18:21,181 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:18:21,181 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:18:21,181 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:18:21,182 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:18:33,741 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:18:33,742 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:18:33,743 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:18:33,743 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:19:47,224 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:19:47,224 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:19:47,225 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:19:47,225 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:19:49,523 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:19:49,523 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:19:49,524 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:19:49,524 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:20:20,674 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:20,674 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:20:20,675 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:20,675 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:20:38,317 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:38,318 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:20:38,318 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:38,318 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:20:47,498 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:47,498 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:20:47,499 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:47,499 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:20:56,593 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:56,593 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:20:56,594 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:56,594 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:21:06,980 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:21:06,981 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:21:06,981 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:21:06,981 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:21:15,307 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:21:15,307 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:21:15,309 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:21:15,309 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:22:44,378 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:22:44,379 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:22:44,379 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:22:44,379 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:23:04,239 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:23:04,240 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:23:04,240 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:23:04,240 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:23:19,367 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:23:19,367 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:23:19,368 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:23:19,368 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:23:30,362 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:23:30,362 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:23:30,363 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:23:30,363 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:31:26,324 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:31:26,324 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:31:26,325 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:31:26,326 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:31:37,455 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:31:37,456 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:31:37,456 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:31:37,456 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:31:40,276 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:31:40,276 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:31:40,277 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:31:40,277 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:34:41,319 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:34:41,319 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:34:41,320 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:34:41,320 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:35:09,396 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:09,396 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:35:09,397 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:09,397 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:35:18,115 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:18,115 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:35:18,115 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:18,116 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:35:21,809 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:21,810 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:35:21,810 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:21,810 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:35:26,841 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:26,841 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:35:26,842 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:26,842 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:35:43,530 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:43,530 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:35:43,530 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:35:43,530 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:36:27,406 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:36:27,406 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:36:27,407 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:36:27,407 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:37:12,647 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:37:12,647 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:37:12,648 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:37:12,648 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:44:36,949 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:44:36,949 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:44:36,950 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:44:36,950 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 02:54:04,457 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:54:04,458 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 02:54:04,458 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:54:04,458 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:01:39,302 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-31 03:02:04,460 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:02:04,461 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:02:04,463 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:02:04,463 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:03:34,032 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:34,032 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:03:34,034 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:34,034 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:03:56,178 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:56,178 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:03:56,180 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:56,180 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:05:17,048 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:17,049 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:05:17,050 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:17,050 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:05:39,632 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:39,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:05:39,634 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:39,634 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:05:47,464 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:47,464 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:05:47,465 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:47,465 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:06:41,420 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:06:41,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:06:41,422 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:06:41,422 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:07:01,395 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:01,395 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:07:01,399 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:01,399 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:07:09,997 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:09,997 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:07:09,998 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:09,998 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:07:40,012 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:40,013 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:07:40,014 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:40,014 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:07:55,458 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:55,458 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:07:55,459 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:55,459 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:07:57,109 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:57,109 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:07:57,110 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:57,111 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:08:11,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:11,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:08:11,379 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:11,379 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:08:42,967 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:42,967 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:08:42,968 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:42,969 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:08:46,144 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:46,145 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:08:46,145 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:46,145 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:09:04,661 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:04,661 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:09:04,663 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:04,664 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:09:28,588 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:28,588 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:09:28,589 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:28,589 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:09:51,213 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:51,214 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:09:51,215 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:51,215 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:10:12,467 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:12,468 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:10:12,469 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:12,469 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:10:24,106 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:24,107 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:10:24,107 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:24,107 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:48:26,349 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:48:26,350 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:48:26,351 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:48:26,351 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:54:03,394 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:54:03,395 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:54:03,396 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:54:03,396 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:54:32,467 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:54:32,467 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:54:32,468 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:54:32,468 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:58:03,841 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:58:03,841 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:58:03,842 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:58:03,842 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:58:12,800 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:58:12,800 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:58:12,801 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:58:12,801 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:58:22,638 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:58:22,638 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:58:22,640 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:58:22,640 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:59:10,465 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:59:10,465 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:59:10,466 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:59:10,466 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 03:59:19,896 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:59:19,896 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 03:59:19,898 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:59:19,898 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:01:25,247 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:01:25,247 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:01:25,248 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:01:25,248 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:02:30,305 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:02:30,306 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:02:30,307 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:02:30,307 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:05:34,267 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:05:34,267 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:05:34,268 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:05:34,268 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:05:37,095 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:05:37,095 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:05:37,097 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:05:37,097 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:09:56,062 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:09:56,063 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:09:56,063 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:09:56,063 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:10:04,376 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:10:04,376 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:10:04,377 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:10:04,377 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:10:52,455 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:10:52,455 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:10:52,456 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:10:52,456 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:11:49,927 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:11:49,927 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:11:49,929 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:11:49,929 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:12:05,385 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:12:05,385 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:12:05,386 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:12:05,386 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:16:10,120 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:16:10,121 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:16:10,122 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:16:10,122 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:18:11,357 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:18:11,357 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:18:11,358 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:18:11,358 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:18:54,301 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:18:54,301 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:18:54,302 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:18:54,302 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:19:46,501 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:19:46,502 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:19:46,502 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:19:46,503 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:31:20,597 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:31:20,597 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:31:20,598 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:31:20,598 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:31:30,345 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:31:30,346 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:31:30,347 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:31:30,347 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:32:43,246 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:32:43,246 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:32:43,247 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:32:43,247 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:32:45,526 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:32:45,526 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:32:45,527 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:32:45,527 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:32:51,409 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:32:51,410 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:32:51,411 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:32:51,411 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:35:46,717 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:35:46,717 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:35:46,718 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:35:46,718 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:40:06,156 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:40:06,156 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:40:06,157 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:40:06,158 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 04:42:05,820 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:42:05,820 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 04:42:05,821 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 04:42:05,822 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 05:49:47,459 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 05:49:47,460 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 05:49:47,461 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 05:49:47,462 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 07:16:07,581 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 07:16:07,582 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 07:16:07,583 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 07:16:07,583 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
+2018-08-31 07:30:46,015 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 07:30:46,015 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\main\resources
+2018-08-31 07:30:46,016 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 07:30:46,016 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\works\really_interesting_HSS\server\really-interesting-HSS\src\test\resources
