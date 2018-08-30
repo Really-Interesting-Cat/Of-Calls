@@ -44,10 +44,10 @@ void loop()
 
   if(data.heart.user == (uint8_t)0x01)
     help = what_help();
-  
-  if(help == 0) 
+ 
+  if(safe_led_on == 0 && help == 0) 
       safe_led();
-    
+  
   else if(help == HEARTACHE || help == IN_DANGER)
   {
     delay_time = 0;
