@@ -61,7 +61,7 @@ void setup()
   pinMode(SCK, INPUT);
   pinMode(SS, INPUT);
   
-  SPI.setClockDivider(SPI_CLOCK_DIV16);
+  SPI.setClockDivider(SPI_CLOCK_DIV64); // 250khz
 
   SPCR |= _BV(SPE); 
   SPCR &= ~_BV(MSTR); 
