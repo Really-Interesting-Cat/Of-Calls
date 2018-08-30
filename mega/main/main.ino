@@ -47,6 +47,8 @@ void setup()
 
   digitalWrite(HEARTACHE, LOW);
   digitalWrite(IN_DANGER, LOW);
+  digitalWrite(HEARTACHE + 6, LOW);
+  digitalWrite(IN_DANGER + 6, LOW);
   
   Wire.begin();      //Wire 라이브러리 초기화
   Wire.beginTransmission(MPU); //MPU로 데이터 전송 시작
