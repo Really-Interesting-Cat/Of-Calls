@@ -73,7 +73,7 @@ void safe_led(void)
 
 int what_help(void)
 {
-  if(data.heart.beat < ACHE_BEAT)
+  if(data.heart.user == 0)
     return HEARTACHE;
 
   if(data.gyro.roll > (int8_t)40 || data.gyro.roll < (int8_t)-40 || data.gyro.pitch > (int8_t)40 || data.gyro.pitch < (int8_t)-40)

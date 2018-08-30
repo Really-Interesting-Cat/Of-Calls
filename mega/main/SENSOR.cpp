@@ -15,20 +15,13 @@ void get_bt_data(void)
 {
   uint8_t bt_data;
   
-  while(1)
-  {
-    Serial1.flush();
+  Serial1.flush();
     
-    Serial1.write('A');
+  Serial1.write('A');
+    
+  while(Serial1.available() <= 0);
 
-    delay(10);
-    
-    if(Serial1.available() > 0)
-    {
-        bt_data = (uint8_t)Serial1.read();
-        break;  
-    }
-  }
+  bt_data = (uint8_t)Serial1.read();
 
   data.heart.user = (uint8_t)(bt_data & (uint8_t)0x01);
   data.heart.beat = (uint8_t)((bt_data & (uint8_t)0xFE) >> 1);

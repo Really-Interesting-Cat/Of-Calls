@@ -72,14 +72,15 @@ void setup()
   led_strip_init();
 
   safe_led();
+  
+  get_sensor_data(); // 안정화
 }
 
 void loop() 
 {
   get_sensor_data();
-
-  if(data.heart.user == (uint8_t)0x01)
-    help = what_help();
+  
+  help = what_help();
  
   if(safe_led_on == 0 && help == 0) 
       safe_led();
@@ -89,7 +90,5 @@ void loop()
     delay_time = 0;
     in_danger(help);
     delay_time = 1;
-  
-    help = 0;
   }
 }
