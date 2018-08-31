@@ -1,5 +1,7 @@
-#define HEARTACHE 2
-#define IN_DANGER 3
+#define HEARTACHE 3
+#define IN_DANGER 4
+
+#define INT_PIN 2
 
 #include <Wire.h>
 
@@ -23,6 +25,7 @@ void setup()
   pinMode(IN_DANGER, OUTPUT);
   pinMode(HEARTACHE + 6, OUTPUT);
   pinMode(IN_DANGER + 6, OUTPUT);
+  pinMode(INT_PIN, INPUT);
 
   digitalWrite(HEARTACHE, LOW);
   digitalWrite(IN_DANGER, LOW);
@@ -42,8 +45,10 @@ void setup()
   led_strip_init();
 
   safe_led();
-  
+ 
   get_sensor_data(); // 안정화
+
+  attachInterrupt(digitalPinToInterrupt(INT_PIN), IRQ_DANGER, FALLING);
 }
 
 void loop() 
@@ -57,7 +62,7 @@ void loop()
   
   else if(help == HEARTACHE || help == IN_DANGER)
   {
-    delay_time = 0;
+    delay_time = 0;9
     in_danger(help);
     delay_time = 1;
   }

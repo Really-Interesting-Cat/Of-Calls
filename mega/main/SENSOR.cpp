@@ -16,11 +16,10 @@ void get_bt_data(void)
   uint8_t bt_data;
   
   Serial1.flush();
-    
-  Serial1.write('A');
-    
-  while(Serial1.available() <= 0);
-
+     
+  while(Serial1.available() <= 0)
+    Serial1.write('A');
+ 
   bt_data = (uint8_t)Serial1.read();
 
   data.heart.user = (uint8_t)(bt_data & (uint8_t)0x01);

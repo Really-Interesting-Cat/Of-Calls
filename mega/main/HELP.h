@@ -6,5 +6,6 @@ void in_danger_led(int pin);
 void safe_led(void);
 int what_help(void);
 void in_danger(int pin);
+void IRQ_DANGER(void);
 
 #endif

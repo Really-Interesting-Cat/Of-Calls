@@ -1,7 +1,7 @@
-#define IN_DANGER_NUM 10
+#define IN_DANGER_NUM 5
 #define ACHE_BEAT 100
-#define HEARTACHE 2
-#define IN_DANGER 3
+#define HEARTACHE 3
+#define IN_DANGER 4
 
 #include <Arduino.h>
 #include <Adafruit_NeoPixel.h>
@@ -15,6 +15,8 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(6, 6, NEO_GRB + NEO_KHZ800);
 int danger = 0;
 
 extern all_data data;
+
+extern int delay_time;
 
 int safe_led_on = 0;
 int ache_led_on = 0;
@@ -91,6 +93,8 @@ int what_help(void)
 
 void in_danger(int pin)
 { 
+  in_danger_led(pin);
+  
   Serial2.flush();
   
   digitalWrite(pin, HIGH);
@@ -107,6 +111,8 @@ void in_danger(int pin)
     Serial2.write(data.heart.beat);
     Serial2.write(data.gyro.roll);
     Serial2.write(data.gyro.pitch);
+    Serial2.write(data.gps.longitude);
+    Serial2.write(data.gps.latitude);
     
     while(Serial2.available() <= 0);
     
@@ -116,4 +122,17 @@ void in_danger(int pin)
 
   digitalWrite(pin, LOW);
   digitalWrite(pin + 6, LOW);
+}
+
+void IRQ_DANGER(void)
+{
+  digitalWrite(IN_DANGER, HIGH);
+  
+  get_sensor_data();
+  
+  delay_time = 0;
+  in_danger(IN_DANGER);
+  delay_time = 1;
+
+  digitalWrite(IN_DANGER, LOW);
 }
