@@ -91,12 +91,29 @@ int what_help(void)
 
 void in_danger(int pin)
 { 
-  in_danger_led(pin);
+  Serial2.flush();
   
-  digitalWrite(pin + 6, HIGH); // RPI HELPING 송신 핀
+  digitalWrite(pin, HIGH);
+  digitalWrite(pin + 6, HIGH);
   
-  while(digitalRead(5) == LOW) // RPI HELPING FINISH 수신 핀
+  while(Serial2.available() <= 0);
+    
+  Serial2.read();
+    
+  while(1)
+  {
     get_sensor_data();
     
+    Serial2.write(data.heart.beat);
+    Serial2.write(data.gyro.roll);
+    Serial2.write(data.gyro.pitch);
+    
+    while(Serial2.available() <= 0);
+    
+    if(Serial.read() == 'X')
+      break;
+  }
+
   digitalWrite(pin, LOW);
+  digitalWrite(pin + 6, LOW);
 }
