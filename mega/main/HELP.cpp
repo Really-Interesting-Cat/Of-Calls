@@ -1,5 +1,4 @@
-#define IN_DANGER_NUM 5
-#define ACHE_BEAT 100
+#define IN_DANGER_NUM 300
 #define HEARTACHE 3
 #define IN_DANGER 4
 
@@ -13,6 +12,8 @@
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(6, 6, NEO_GRB + NEO_KHZ800);
 
 int danger = 0;
+
+volatile int exception = 0;
 
 extern all_data data;
 
@@ -78,10 +79,16 @@ int what_help(void)
   if(data.heart.user == 0)
     return HEARTACHE;
 
-  if(data.gyro.roll > (int8_t)40 || data.gyro.roll < (int8_t)-40 || data.gyro.pitch > (int8_t)40 || data.gyro.pitch < (int8_t)-40)
+  if(data.gyro.roll > (int8_t)70 || data.gyro.roll < (int8_t)-70 || data.gyro.pitch > (int8_t)70 || data.gyro.pitch < (int8_t)-70)
     danger++;
 
-  if(danger == IN_DANGER_NUM)
+  if(data.gyro.roll > (int8_t)80 || data.gyro.roll < (int8_t)-80 || data.gyro.pitch > (int8_t)80 || data.gyro.pitch < (int8_t)-80)
+    danger += 80;  
+  
+  Serial.print("Danger : ");
+  Serial.println(danger);
+  
+  if(danger >= IN_DANGER_NUM)
   {
     danger = 0;
     
@@ -95,14 +102,19 @@ void in_danger(int pin)
 { 
   in_danger_led(pin);
   
-  Serial2.flush();
+  Serial3.flush();
   
   digitalWrite(pin, HIGH);
   digitalWrite(pin + 6, HIGH);
   
-  while(Serial2.available() <= 0);
-    
-  Serial2.read();
+  while(Serial3.available() <= 0)
+  {
+    Serial.println("Waiting RPi End Situation");
+    delay(100);
+  } 
+  Serial3.read();
+
+  Serial.println("Recevied...");
     
   while(1)
   {
@@ -113,10 +125,16 @@ void in_danger(int pin)
     Serial2.write(data.gyro.pitch);
     Serial2.write(data.gps.longitude);
     Serial2.write(data.gps.latitude);
+
+    Serial.println("Data transmited..");
     
-    while(Serial2.available() <= 0);
+    while(Serial3.available() <= 0)
+    {
+      Serial.println("Waiting RPi Close communication");
+      delay(100); 
+    }
     
-    if(Serial.read() == 'X')
+    if(Serial3.read() == 'X')
       break;
   }
 
@@ -126,13 +144,5 @@ void in_danger(int pin)
 
 void IRQ_DANGER(void)
 {
-  digitalWrite(IN_DANGER, HIGH);
-  
-  get_sensor_data();
-  
-  delay_time = 0;
-  in_danger(IN_DANGER);
-  delay_time = 1;
-
-  digitalWrite(IN_DANGER, LOW);
+  exception = 1;
 }

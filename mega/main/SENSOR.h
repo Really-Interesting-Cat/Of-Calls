@@ -3,6 +3,7 @@
 
 void get_bt_data(void);
 void get_gyro_data(void);
+void get_gps_data(void);
 void get_sensor_data(void);
 
 #endif

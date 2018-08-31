@@ -3,11 +3,14 @@
 
 #include "main.h"
 #include "SENSOR.h"
+#include "gps.h"
 
 int delay_time = 1;
 
 int MPU = 0x68;  //MPU 6050 의 I2C 기본 주소 설정
 int16_t AcX,AcY,AcZ_X=12700, AcZ_Y=12800;
+
+unsigned short i, addr = 0;
 
 extern all_data data;
 
@@ -17,13 +20,24 @@ void get_bt_data(void)
   
   Serial1.flush();
      
-  while(Serial1.available() <= 0)
+  while(Serial1.available() <= 0) {
+    Serial.println("Waiting BT Moudle...");
     Serial1.write('A');
+    delay(100);
+  }
+
+  Serial.println("Received..");
  
   bt_data = (uint8_t)Serial1.read();
 
   data.heart.user = (uint8_t)(bt_data & (uint8_t)0x01);
   data.heart.beat = (uint8_t)((bt_data & (uint8_t)0xFE) >> 1);
+
+  Serial.print("user : ");
+  Serial.println(data.heart.user);
+
+  Serial.print("beat : ");
+  Serial.println(data.heart.beat);
 }
 
 void get_gyro_data(void)
@@ -123,10 +137,35 @@ void get_gyro_data(void)
    data.gyro.pitch = (int8_t)pitch;
 }
 
+void get_gps_data(void)
+{
+  if(Serial2.available())
+  {
+    addr += (i = Serial2.readBytes(gps_packet_buff + addr, 1));
+    if(addr == 36){
+        if(gps_packet_buff[0] == 0xB5 && gps_packet_buff[1] == 0x62)
+        {
+          check_gps_packet();
+    
+          if(checksum_flag){
+            decode_gps_posllh_packet();
+            data.gps.longitude = datag.longitude;
+            data.gps.latitude = datag.latitude;
+          }
+        }
+      addr = 0;
+    }
+  }
+}
+
 void get_sensor_data(void)
 {
+  Serial.println("GET_BT_DATA");
   get_bt_data();
+  Serial.println("GET_GYRO_DATA");
   get_gyro_data();
+  Serial.println("GET_GPS_DATA");
+  get_gps_data();
   
   if(delay_time == 1)
       delay(500);
