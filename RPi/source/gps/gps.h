@@ -1,3 +1,6 @@
+#include <stdint.h>
+#include <string.h>
+
 //------------------------------ Definition Constant
 #define GPS_DMA_RECEIVE_SIZE 1024
 #define GPS_PACKET_SIZE 36
@@ -19,8 +22,8 @@ typedef struct _GPS {
 	unsigned long	iTow;		// GPS time of week of the navigation epoch
 	unsigned long	hAcc;		// Horizontal accuracy estimate
 	unsigned long	vAcc;		// Vertical accuracy estimate
-	signed long		longitude;	// °æµµ
-	signed long		latitude;	// À§µµ
+	signed long		longitude;	// ï¿½æµµ
+	signed long		latitude;	// ï¿½ï¿½ï¿½ï¿½
 	signed long		height;		// Height above ellipsoid
 	signed long		hMSL;		// Height above mean sea level 
 }Gps;
@@ -44,7 +47,7 @@ extern GpsUnion	gps_union;
 extern uint8_t		new_packet_flag;
 extern uint8_t		packet_complete_flag;
 extern uint8_t		posllh_checksum_flag;
-extern uint8_t		check_flag;
+extern uint8_t		checksum_flag;
 extern uint8_t		count;
 
 extern int	received_size;
@@ -56,11 +59,7 @@ extern uint8_t gps_packet_buff[GPS_PACKET_SIZE];
 
 //------------------------------- 
 
-void read_gps();
-
 void init_gps();
-
-void receive_gps_packet();
 
 void check_gps_packet();
 
